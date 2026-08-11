@@ -59,11 +59,11 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 * **Descripción:** Actividad práctica inicial orientada a reforzar conceptos clave para el desarrollo del curso.
 * **Entregable / Archivos:**
 <details>
-<summary>📁 <b> Jorvan Camargo </b></summary>
-  
-[Informe](file:///C:/Users/RPK/Downloads/TALLER%20%231%20JORVAN%20CAMARGO.pdf) [Presentación](file:///C:/Users/RPK/Downloads/0-6222235275290818773.pdf)
+<summary>📁 <b>Jorvan Camargo</b></summary>
 
-<details>
+[Informe](./documentos/TALLER%201%20JORVAN%20CAMARGO.pdf) | [Presentación](./documentos/0-6222235275290818773.pdf)
+
+</details>
 <summary>📁 <b> Joel Cerrud </b></summary>
 
 [Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
