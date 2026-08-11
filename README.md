@@ -38,7 +38,8 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 * **Pregunta 2:** ¿Cómo defines las TIC con tus propias palabras y qué aplicaciones prácticas reconoces en tu entorno?
 * **Pregunta 3:** ¿Qué tendencia tecnológica actual consideras más influyente y por que?
 * **Pregunta 4:** ¿Qué certificación profesional o carrera relacionada con las TIC te llama la atención y por qué?
-* <details>
+
+<details>
 <summary>📂 <b>Ver evidencias del Foro 1 (Toca aquí para desplegar)</b></summary>
 
 ![Línea de tiempo](57ddeb0a-be12-4bb2-bccf-63f15e157321.jpeg)
