@@ -62,9 +62,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <summary>📁 <b> Jorvan Camargo </b></summary>
 
 [Informe]()
-[Presentación](https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmquADcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
-</details>
-
+[Presentación](file:///C:/Users/RPK/Downloads/0-6222235275290818773.pdf)
 <details>
 <summary>📁 <b> Joel Cerrud </b></summary>
 
