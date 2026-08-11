@@ -58,7 +58,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 ### 3.1 Taller Complementario
 * **Descripción:** Actividad práctica inicial orientada a reforzar conceptos clave para el desarrollo del curso.
 * **Entregable / Archivos:**
-* <details>
+<details>
 <summary>📂 <b> Jorvan Camargo (Toca aquí para desplegar)</b>
 
   * ![Presentación](htps://www.canva.com/design/DAHLtHLfUoY/JogaJijsmqUaDcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
