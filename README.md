@@ -44,6 +44,8 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ![Línea de tiempo](57ddeb0a-be12-4bb2-bccf-63f15e157321.jpeg)
 ![Imagen del Foro](./9b8b7b5d-9484-417a-93c2-2667e5976ba1.jpeg)
+![Imagen del Foro](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/IMG_2718.jpeg)
+![Imagen del Foro]
 
 
 
