@@ -61,8 +61,8 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📁 <b> Jorvan Camargo </b></summary>
 
- [Informe](file:///C:/Users/RPK/Downloads/TALLER%20%231%20JORVAN%20CAMARGO.pdf)
- [Presentación](file:///C:/Users/RPK/Downloads/0-6222235275290818773.pdf)
+ ![Informe](file:///C:/Users/RPK/Downloads/TALLER%20%231%20JORVAN%20CAMARGO.pdf)
+ ![Presentación](file:///C:/Users/RPK/Downloads/0-6222235275290818773.pdf)
 <details>
 <summary>📁 <b> Joel Cerrud </b></summary>
 
