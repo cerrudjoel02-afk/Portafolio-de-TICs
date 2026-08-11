@@ -34,13 +34,13 @@ Este portafolio recopila las evidencias de aprendizaje, talleres prácticos y pr
 ## 2. Diagnóstico Inicial: Foro
 En esta actividad introductoria se respondieron 4 preguntas diagnósticas para evaluar los conocimientos previos antes de iniciar la asignatura.
 
-* **Pregunta 1:** [Inserta la pregunta o un resumen]
+* **Pregunta 1:** ¿Qué eventos o etapas históricas te parecen más importantes en el desarrollo de las TIC?
   * **Respuesta:** [Tu respuesta dada en el foro]
-* **Pregunta 2:** [Inserta la pregunta o un resumen]
+* **Pregunta 2:** ¿Cómo defines las TIC con tus propias palabras y qué aplicaciones prácticas reconoces en tu entorno?
   * **Respuesta:** [Tu respuesta dada en el foro]
-* **Pregunta 3:** [Inserta la pregunta o un resumen]
+* **Pregunta 3:** ¿Qué tendencia tecnológica actual consideras más influyente y por qué?
   * **Respuesta:** [Tu respuesta dada en el foro]
-* **Pregunta 4:** [Inserta la pregunta o un resumen]
+* **Pregunta 4:** ¿Qué certificación profesional o carrera relacionada con las TIC te llama la atención y por qué?
   * **Respuesta:** [Tu respuesta dada en el foro]
 
 ---
