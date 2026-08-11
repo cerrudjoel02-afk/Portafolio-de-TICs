@@ -42,6 +42,13 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 ![Descripción de la imagen](./ruta/a/tu/imagen.png)
 ![Descripción de la imagen](./ruta/a/tu/imagen.png)
 ![Descripción de la imagen](./ruta/a/tu/imagen.png)
+<details>
+<summary>📂 <b>Ver evidencias del Módulo 1 (Toca aquí para desplegar)</b></summary>
+
+![Línea de tiempo](57ddeb0a-be12-4bb2-bccf-63f15e157321.jpeg)
+
+</details>
+
 
 
 
