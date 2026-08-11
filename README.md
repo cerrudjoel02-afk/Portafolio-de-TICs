@@ -42,7 +42,10 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📂 <b>Ver evidencias del Foro 1 (Toca aquí para desplegar)</b></summary>
 
-![Línea de tiempo](57ddeb0a-be12-4bb2-bccf-63f15e157321.jpeg)(9b8b7b5d-9484-417a-93c2-2667e5976ba1.jpeg)
+![Línea de tiempo](57ddeb0a-be12-4bb2-bccf-63f15e157321.jpeg)
+![Imagen del Foro](./9b8b7b5d-9484-417a-93c2-2667e5976ba1.jpeg)
+
+
 
 </details>
 
