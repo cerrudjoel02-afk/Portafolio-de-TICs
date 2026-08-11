@@ -65,8 +65,9 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 </details>
 
 <details>
-<summary>📁 <b> Jorvan Camargo </b></summary>
-<br>[Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
+<summary>📁 <b> Joel Cerrud </b></summary>
+
+  <br>[Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
 
 ### 3.2 Módulo 1: Línea del Tiempo - Evolución de las Bases de Datos
 * **Tema:** Historia y evolución tecnológica de las Bases de Datos (desde archivos planos y modelos jerárquicos hasta bases de datos NoSQL, distribuidas y en la nube).
