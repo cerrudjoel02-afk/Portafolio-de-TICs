@@ -57,7 +57,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ### 3.1 Taller Complementario
 * **Descripción:** Actividad práctica inicial orientada a reforzar conceptos clave para el desarrollo del curso.
-* **Entregable / Archivos:** [Enlace o ruta al documento/código `./talleres/taller-complementario.pdf`]
+* **Entregable / Archivos:** [https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmqUaDcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer]
 
 ### 3.2 Módulo 1: Línea del Tiempo - Evolución de las Bases de Datos
 * **Tema:** Historia y evolución tecnológica de las Bases de Datos (desde archivos planos y modelos jerárquicos hasta bases de datos NoSQL, distribuidas y en la nube).
