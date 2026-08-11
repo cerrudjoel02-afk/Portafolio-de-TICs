@@ -59,9 +59,10 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 * **Descripción:** Actividad práctica inicial orientada a reforzar conceptos clave para el desarrollo del curso.
 * **Entregable / Archivos:**
 <details>
-<summary>📂 <b> Jorvan Camargo (Toca aquí para desplegar)</b>
+<summary>📂 <b> Jorvan Camargo </b>
 
-  * ![Presentación](htps://www.canva.com/design/DAHLtHLfUoY/JogaJijsmqUaDcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+![Presentación](htps://www.canva.com/design/DAHLtHLfUoY/JogaJijsmqUaDcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
 </summary>
 
 </details>
