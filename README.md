@@ -60,7 +60,8 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 * **Entregable / Archivos:**
 <details>
 <summary>📁 <b> Jorvan Camargo </b></summary>
-  
+
+[Informe]()
 [Presentación](https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmquADcchWAkKAA/view?utm_content=DAHLtHLfUoY&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 </details>
 
@@ -73,7 +74,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📁 <b> Elkin Carrasco </b></summary>
 
-[Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
+[Presentación](5d88a3ae-664e-486a-af4d-24ce7d21095d.jpg)) </details>) </details>
 
 
 <details>
