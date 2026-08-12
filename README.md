@@ -61,7 +61,8 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📁 <b>Jorvan Camargo</b></summary>
 
-[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%20%231%20JORVAN%20CAMARGO.pdf) | [Presentación](./documentos/0-6222235275290818773.pdf)
+[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%20%231%20JORVAN%20CAMARGO.pdf) | [Presentación](
+https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf)
 
 </details>
 <details>
@@ -95,8 +96,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
   * Transición de lenguajes de bajo nivel a alto nivel.
   * Paradigmas de programación principales.
   * Impacto de los lenguajes modernos en la productividad del desarrollo de software.
-* **Entregables / Recursos:**
-  * 📄 Documento / Presentación: [Ver recurso sobre Lenguajes de Programación](https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmquADcchWAkKAA/view)
+* **Entregables / Recursos:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%201-Yorlenis%20Gaitan.pdf)/ [Presentación](https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmquADcchWAkKAA/view)
 ---
 
 ## 4. Módulo 2: Infraestructura y Arquitectura Nube
@@ -107,7 +107,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
   * Requerimientos de procesamiento, RAM y almacenamiento para compilación y simulación.
   * Entornos de desarrollo (IDEs), toolchains, depuradores y herramientas de hardware (osciloscopios, programadores).
   * Justificación técnica y presupuesto orientativo.
-* * **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf) | [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
+* * **Entregable:**[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf) | [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
 
 ### 4.2 Taller 2: Arquitectura Interna de Google Drive
 * **Objetivo:** Analizar los componentes internos y mecanismos que permiten el funcionamiento escalable y seguro de Google Drive.
@@ -127,7 +127,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ### 5.2 Parcial 2 (Módulos 5 y 6): Propuesta para Empresa de Transporte
 * **Contexto:** Evaluación parcial orientada a la optimización operativa y tecnológica en una empresa del sector transporte.
-* **Entregable:** [Informe] | [Presentación]
+* **Entregable:** [Informe] | [Presentación](https://view.genially.com/6a6b92e34330970df6403a88)
 
 ---
 
