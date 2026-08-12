@@ -84,11 +84,26 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ### 3.2 Módulo 1: Línea del Tiempo - Evolución de las Bases de Datos
 * **Tema:** Historia y evolución tecnológica de las Bases de Datos (desde archivos planos y modelos jerárquicos hasta bases de datos NoSQL, distribuidas y en la nube).
-* **Recursos:**
-  * 📄 Documento/Infografía: `./modulo-1/linea-del-tiempo.pdf`
-  * 🖼️ Visualización: ![Línea del Tiempo](./modulo-1/linea-tiempo.png)
+
+<details>
+<summary><b>📷 Ver Evidencia / Línea del Tiempo (Toca/Haz clic para desplegar)</b></summary>
+
+<br>
+
+![Línea del Tiempo](./57ddeb0a-be12-4bb2-xxxx.png)
+
+</details>
+
 * **Conclusión clave:** El entendimiento del almacenamiento estructurado y no estructurado permite tomar decisiones informadas al diseñar arquitecturas de software modernas.
 
+### 3.3 Módulo 1: Evolución de los Lenguajes de Programación
+* **Tema:** Análisis histórico y desarrollo de los lenguajes de programación desde el código máquina y ensamblador hasta los lenguajes de alto nivel modernos y paradigmas actuales (estructurado, orientado a objetos, funcional).
+* **Puntos clave:**
+  * Transición de lenguajes de bajo nivel a alto nivel.
+  * Paradigmas de programación principales.
+  * Impacto de los lenguajes modernos en la productividad del desarrollo de software.
+* **Entregables / Recursos:**
+  * 📄 Documento / Presentación: [Ver recurso sobre Lenguajes de Programación](https://www.canva.com/design/DAHLtHLfUoY/JogaJijsmquADcchWAkKAA/view)
 ---
 
 ## 4. Módulo 2: Infraestructura y Arquitectura Nube
