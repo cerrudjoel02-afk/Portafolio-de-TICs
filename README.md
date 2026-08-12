@@ -115,8 +115,7 @@ https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290
   * Almacenamiento distribuido y sincronización de archivos en tiempo real.
   * Manejo de metadatos, versiones y seguridad.
   * Mecanismos de tolerancia a fallos y redundancia.
-* **Archivos:** 
-
+* **Archivos:** [Presentación](https://view.genially.com/6a557463a30707d7ac37b4f6)
 ---
 
 ## 5. Proyectos Integradores (Notas Parciales)
