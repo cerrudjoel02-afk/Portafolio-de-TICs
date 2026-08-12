@@ -86,11 +86,11 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 * **Tema:** Historia y evolución tecnológica de las Bases de Datos (desde archivos planos y modelos jerárquicos hasta bases de datos NoSQL, distribuidas y en la nube).
 
 <details>
-<summary><b>📷 Ver Evidencia / Línea del Tiempo (Toca/Haz clic para desplegar)</b></summary>
+<summary><b>📷 Ver Evidencia / Línea del Tiempo
 
 <br>
 
-![Línea del Tiempo](https://view.genially.com/6a2790f3cf47ee392e50a4ae?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=67edc769-76b4-4754-a47f-5224f51823ef&submissionId=1196a4ce-e9f8-be5e-1970-3d3991c1725b)
+[Presentación](https://view.genially.com/6a2790f3cf47ee392e50a4ae?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=67edc769-76b4-4754-a47f-5224f51823ef&submissionId=1196a4ce-e9f8-be5e-1970-3d3991c1725b)
 
 </details>
 
