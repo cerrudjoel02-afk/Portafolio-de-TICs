@@ -107,7 +107,7 @@ https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290
   * Requerimientos de procesamiento, RAM y almacenamiento para compilación y simulación.
   * Entornos de desarrollo (IDEs), toolchains, depuradores y herramientas de hardware (osciloscopios, programadores).
   * Justificación técnica y presupuesto orientativo.
-* * **Entregable:**[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf) | [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
+* * **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf) | [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
 
 ### 4.2 Taller 2: Arquitectura Interna de Google Drive
 * **Objetivo:** Analizar los componentes internos y mecanismos que permiten el funcionamiento escalable y seguro de Google Drive.
@@ -123,11 +123,12 @@ https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290
 
 ### 5.1 Parcial 1 (Módulos 3 y 4): Propuesta para Empresa de Telecomunicaciones
 * **Contexto:** Evaluación parcial basada en el estudio de caso de una compañía del sector telecomunicaciones.
-* **Entregable:** [Informe] | [Presentación](https://prezi.com/craft/room/pzccp-pdargo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=303756f1-9331-4db9-ac31-31ff23043e9e&submissionId=090ecc9e-95fb-11fa-b319-8745661dd993)
+* **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/PROPUESTA%20T%C3%89CNICA%20E%20INFORME%20DE%20ARQUITECTURA%20DE%20INFRAESTRUCTURA%20DIGITAL%20(1).pdf
+) | [Presentación](https://prezi.com/craft/room/pzccp-pdargo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=303756f1-9331-4db9-ac31-31ff23043e9e&submissionId=090ecc9e-95fb-11fa-b319-8745661dd993)
 
 ### 5.2 Parcial 2 (Módulos 5 y 6): Propuesta para Empresa de Transporte
 * **Contexto:** Evaluación parcial orientada a la optimización operativa y tecnológica en una empresa del sector transporte.
-* **Entregable:** [Informe] | [Presentación](https://view.genially.com/6a6b92e34330970df6403a88)
+* **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/informe_tecnico_itse_final.pdf) | [Presentación](https://view.genially.com/6a6b92e34330970df6403a88)
 
 ---
 
