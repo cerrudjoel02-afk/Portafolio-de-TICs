@@ -1,12 +1,12 @@
 # Portafolio-de-TICs
 El siguiente repositorio sirve como portafolio de evidencias de lo que hicimos en la materia durante todo el cuatrimestre.
-# Portafolio de Evidencias - [Nombre de la Asignatura]
+# Portafolio de Evidencias - Tecnologia de la información y la comunicación 
 
-**Estudiantes:** [Jorvan Camargo], [Elkin Carrasco], [Joel Cerrud], [Yorlenis Gaitán]  
-**Programa:** [Técnico Superior en Desrrollo de Software]  
-**Docente:** [Aaron Smith]  
-**Institución:** [Instituto Técnico Superior Especializado]  
-**Período:** [1 cuatrimestre]  
+**Estudiantes:** Jorvan Camargo, Elkin Carrasco, Joel Cerrud, Yorlenis Gaitán  
+**Programa:** Técnico Superior en Desrrollo de Software  
+**Docente:** Aaron Smith  
+**Institución:** Instituto Técnico Superior Especializado  
+**Período:** 1 cuatrimestre  
 
 ---
 
