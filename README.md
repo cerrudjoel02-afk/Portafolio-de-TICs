@@ -90,7 +90,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 <br>
 
-![Línea del Tiempo](./57ddeb0a-be12-4bb2-xxxx.png)
+![Línea del Tiempo](https://view.genially.com/6a2790f3cf47ee392e50a4ae?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=67edc769-76b4-4754-a47f-5224f51823ef&submissionId=1196a4ce-e9f8-be5e-1970-3d3991c1725b)
 
 </details>
 
@@ -114,7 +114,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
   * Requerimientos de procesamiento, RAM y almacenamiento para compilación y simulación.
   * Entornos de desarrollo (IDEs), toolchains, depuradores y herramientas de hardware (osciloscopios, programadores).
   * Justificación técnica y presupuesto orientativo.
-* **Archivos:** `./modulo-2/estacion-embebidos.pdf`
+* * **Entregable:** [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
 
 ### 4.2 Taller 2: Arquitectura Interna de Google Drive
 * **Objetivo:** Analizar los componentes internos y mecanismos que permiten el funcionamiento escalable y seguro de Google Drive.
@@ -130,12 +130,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ### 5.1 Parcial 1 (Módulos 3 y 4): Propuesta para Empresa de Telecomunicaciones
 * **Contexto:** Evaluación parcial basada en el estudio de caso de una compañía del sector telecomunicaciones.
-* **Problema Identificado:** [Breve descripción del problema o cuello de botella encontrado].
-* **Propuesta de Mejora:**
-  1. [Punto principal 1 de la propuesta]
-  2. [Punto principal 2 de la propuesta]
-  3. [Punto principal 3 de la propuesta]
-* **Entregable:** [Ver Documento Completo del Parcial 1](./parciales/parcial-1-telecomunicaciones.pdf)
+* **Entregable:** [Presentación](https://prezi.com/craft/room/pzccp-pdargo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=303756f1-9331-4db9-ac31-31ff23043e9e&submissionId=090ecc9e-95fb-11fa-b319-8745661dd993)
 
 ### 5.2 Parcial 2 (Módulos 5 y 6): Propuesta para Empresa de Transporte
 * **Contexto:** Evaluación parcial orientada a la optimización operativa y tecnológica en una empresa del sector transporte.
