@@ -61,13 +61,13 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📁 <b>Jorvan Camargo</b></summary>
 
-[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%20%231%20JORVAN%20CAMARGO.pdf)|[Presentación](./documentos/0-6222235275290818773.pdf)
+[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%20%231%20JORVAN%20CAMARGO.pdf) | [Presentación](./documentos/0-6222235275290818773.pdf)
 
 </details>
 <details>
 <summary>📁 <b> Joel Cerrud </b></summary>
 
-[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/MALWARE.pdf)|[Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
+[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/MALWARE.pdf) | [Presentación](https://httpsnormasapa.my.canva.site/malware-virus-inform-ticos/?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=a7ca5273-fa66-49df-a198-a65b9c129783&submissionId=00571b2c-4a4d-e2b9-f6e1-443cbca60199) </details>
 
   
 <details>
@@ -81,11 +81,11 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <summary>📁 <b> Yorlenis Gaitán </b></summary>
 
 [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%201-Yorlenis%20Gaitan%201.pdf
-)|[Presentación](https://view.genially.com/6a227033e05deb7d95017d97) </details>
+)| [Presentación](https://view.genially.com/6a227033e05deb7d95017d97) </details>
 
 ### 3.2 Módulo 1: Línea del Tiempo - Evolución de las Bases de Datos
 * **Tema:** Historia y evolución tecnológica de las Bases de Datos (desde archivos planos y modelos jerárquicos hasta bases de datos NoSQL, distribuidas y en la nube).
-* **Entregables / Recursos:**[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/Inv%20Evolucion%20de%20base%20de%20datos%20(1).pdf)|[Presentación](https://view.genially.com/6a2790f3cf47ee392e50a4ae?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=67edc769-76b4-4754-a47f-5224f51823ef&submissionId=1196a4ce-e9f8-be5e-1970-3d3991c1725b)/6
+* **Entregables / Recursos:**[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/Inv%20Evolucion%20de%20base%20de%20datos%20(1).pdf) | [Presentación](https://view.genially.com/6a2790f3cf47ee392e50a4ae?classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=67edc769-76b4-4754-a47f-5224f51823ef&submissionId=1196a4ce-e9f8-be5e-1970-3d3991c1725b)
 
 * **Conclusión clave:** El entendimiento del almacenamiento estructurado y no estructurado permite tomar decisiones informadas al diseñar arquitecturas de software modernas.
 
@@ -107,7 +107,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
   * Requerimientos de procesamiento, RAM y almacenamiento para compilación y simulación.
   * Entornos de desarrollo (IDEs), toolchains, depuradores y herramientas de hardware (osciloscopios, programadores).
   * Justificación técnica y presupuesto orientativo.
-* * **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf)|[Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
+* * **Entregable:** [Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/0-6222235275290818773.pdf) | [Presentación](https://prezi.com/craft/room/fsgfg9um3cbo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=6754fb2a-4929-418f-adc0-f9952b39b61a&submissionId=d472e95e-71f8-a335-ebec-5a81d7da33b1)
 
 ### 4.2 Taller 2: Arquitectura Interna de Google Drive
 * **Objetivo:** Analizar los componentes internos y mecanismos que permiten el funcionamiento escalable y seguro de Google Drive.
@@ -123,11 +123,11 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 
 ### 5.1 Parcial 1 (Módulos 3 y 4): Propuesta para Empresa de Telecomunicaciones
 * **Contexto:** Evaluación parcial basada en el estudio de caso de una compañía del sector telecomunicaciones.
-* **Entregable:** [Informe]|[Presentación](https://prezi.com/craft/room/pzccp-pdargo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=303756f1-9331-4db9-ac31-31ff23043e9e&submissionId=090ecc9e-95fb-11fa-b319-8745661dd993)
+* **Entregable:** [Informe] | [Presentación](https://prezi.com/craft/room/pzccp-pdargo?referral_token=xUbx1BlnB3FN&classId=df7234d3-0455-49b7-8276-ecbd33ec4086&assignmentId=303756f1-9331-4db9-ac31-31ff23043e9e&submissionId=090ecc9e-95fb-11fa-b319-8745661dd993)
 
 ### 5.2 Parcial 2 (Módulos 5 y 6): Propuesta para Empresa de Transporte
 * **Contexto:** Evaluación parcial orientada a la optimización operativa y tecnológica en una empresa del sector transporte.
-* **Entregable:** [Informe]|[Presentación]
+* **Entregable:** [Informe] | [Presentación]
 
 ---
 
