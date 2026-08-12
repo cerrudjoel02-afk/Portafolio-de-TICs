@@ -61,7 +61,7 @@ En esta actividad introductoria se respondieron 4 preguntas diagnósticas para e
 <details>
 <summary>📁 <b>Jorvan Camargo</b></summary>
 
-[Informe](./documentos/TALLER%201%20JORVAN%20CAMARGO.pdf) | [Presentación](./documentos/0-6222235275290818773.pdf)
+[Informe](https://github.com/cerrudjoel02-afk/Portafolio-de-TICs/blob/main/TALLER%20%231%20JORVAN%20CAMARGO.pdf)|[Presentación](./documentos/0-6222235275290818773.pdf)
 
 </details>
 <details>
